@@ -34,11 +34,5 @@ This dataset can be used for:
 - **Developing machine learning models** for fire risk assessment.
 - **Analyzing weather patterns** leading to fire incidents.
 
-## Citation
-If you use this dataset, please cite the source accordingly.
 
----
-**Author**: [Your Name]  
-**Date**: [Current Date]  
-**License**: Open for research and educational purposes.
 
